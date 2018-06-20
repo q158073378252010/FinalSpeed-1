@@ -1,7 +1,7 @@
 # FinalSpeed
 服务器TCP双边加速软件可达到90%的物理带宽利用率
 
-[FinalSpeed官方停止维护更新](http://www.ip4a.com/t/944.html),且行切珍惜！ 
+~~[FinalSpeed官方停止维护更新](http://www.ip4a.com/t/944.html)~~,且行切珍惜！ 
 
 
 一. 开放端口
